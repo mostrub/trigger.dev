@@ -35,7 +35,7 @@
     "node-fetch": "^3.3.2",
     "partysocket": "^0.0.17",
     "proxy-agent": "^6.3.0",
-    "zod": "3.22.3"
+    "zod": "3.22.4"
   },
   "devDependencies": {
     "@trigger.dev/tsconfig": "workspace:*",
