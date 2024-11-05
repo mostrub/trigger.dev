@@ -26,7 +26,7 @@
   "dependencies": {
     "@slack/web-api": "^6.8.1",
     "@trigger.dev/sdk": "workspace:^3.0.0-beta.35",
-    "zod": "3.22.3"
+    "zod": "3.22.4"
   },
   "engines": {
     "node": ">=16.8.0"

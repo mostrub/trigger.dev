@@ -23,7 +23,7 @@
     "@trigger.dev/sdk": "workspace:^3.0.0-beta.35"
   },
   "devDependencies": {
-    "astro": "^3.0.12",
+    "astro": "^4.16.9",
     "@trigger.dev/tsconfig": "workspace:*",
     "@types/debug": "^4.1.7",
     "@types/ws": "^8.5.3",
